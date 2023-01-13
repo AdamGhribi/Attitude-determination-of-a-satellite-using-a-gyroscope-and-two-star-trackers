@@ -3,6 +3,8 @@ Multiplicative Extended Kalman Filter (MEKF) to estimate the satellite’s orien
 
 Recorded Presentation : https://youtu.be/7T0Wn219HF0
 
-Presentation:
+Presentation by:
+
 Jacques Desfossés (M.Eng Aerospace, Polytechnique)
+
 Adam Ghribi (M.Eng Aerospace, University of Stuttgart in Germany) 
